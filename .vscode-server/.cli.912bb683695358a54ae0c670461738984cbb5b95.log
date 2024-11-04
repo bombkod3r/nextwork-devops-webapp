@@ -1,0 +1,9 @@
+Listening on 127.0.0.1:37743
+looking for token bcb3160e-0b3a-4065-91b4-80fb5c561b24, got Some("bcb3160e-0b3a-4065-91b4-80fb5c561b24")
+[2024-11-04 11:24:33] info Disposed of connection to running server.
+[2024-11-04 11:24:34] info Checking /home/ec2-user/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/log.txt and /home/ec2-user/.vscode-server/cli/servers/Stable-912bb683695358a54ae0c670461738984cbb5b95/pid.txt for a running server...
+[2024-11-04 11:24:34] info Found running server (pid=28615)
+looking for token bcb3160e-0b3a-4065-91b4-80fb5c561b24, got Some("bcb3160e-0b3a-4065-91b4-80fb5c561b24")
+[2024-11-04 11:24:46] info Disposed of connection to running server.
+[2024-11-04 11:24:46] info Disposed of connection to running server.
+looking for token bcb3160e-0b3a-4065-91b4-80fb5c561b24, got Some("bcb3160e-0b3a-4065-91b4-80fb5c561b24")
